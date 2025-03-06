@@ -65,5 +65,5 @@ env/
 # ignore run.py
 run.py
 
-# ignore .txt files
-*.txt
+# # ignore .txt files
+# *.txt
